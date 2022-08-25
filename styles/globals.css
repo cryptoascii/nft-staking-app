@@ -24,14 +24,14 @@ select {
 }
 
 :root {
-  --black: #1c1e21;
+  --blue: #418dff;
   --white: #ffffff;
-  --tw-color1: #a855f7;
-  --tw-color1-hover: #9333ea;
+  --tw-color1: #dd7514;
+  --tw-color1-hover: #e9af10;
 }
 
 body {
-  background: var(--black);
+  background: var(--blue);
   font-family: "Inter", sans-serif;
   color: var(--white);
   display: flex;
