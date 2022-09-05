@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           onClick={() => router.push(`/stake`)}
         >
           {/* Staking an NFT */}
-          <img src={`/icons/token.webp`} alt="drop" />
+          <img src={`/bomb.png`} alt="drop" />
           <h2 className={styles.selectBoxTitle}>Stake Your NFTs</h2>
           <p className={styles.selectBoxDescription}>
           Complete the task and get M-TIKI on Polygon Mumbai Testnet.
