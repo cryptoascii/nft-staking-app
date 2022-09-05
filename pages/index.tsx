@@ -8,8 +8,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       {/* Top Section */}
-      <h1 className={styles.h1}>🏝️HashTribe</h1>
-      <h2 className={styles.selectBoxTitle}>Weapons Staking Contract Pool</h2>
+      <h1 className={styles.h1}>🏝️HashTribe Game</h1>
+      <h2 className={styles.selectBoxTitle}>Weapon Staking Contract Pool</h2>
       <div className={styles.nftBoxGrid}>
        
 
@@ -22,7 +22,7 @@ const Home: NextPage = () => {
           <img src={`/icons/token.webp`} alt="drop" />
           <h2 className={styles.selectBoxTitle}>Stake Your NFTs</h2>
           <p className={styles.selectBoxDescription}>
-          The 1st stage weapon bouns pool to stake your NFTs, and earn tokens from the <b>Staking</b> contract.
+          Complete the task and get M-TIKI on Polygon Mumbai Testnet.
           </p>
         </div>
       </div>
